@@ -10,9 +10,14 @@
 I'm a military police officer in the city of Rio de Janeiro, and I'm currently studying web development and cybersecurity.
 I am a great admirer of programming and my first contact with the field was in 2004 through the Pascal language, but I abandoned my studies.
 Only now, after almost 20 years of hiatus, have I decided to return to studying programming. 😅
-<br>
+<br><br>
 
-  
+<p align="center">
+
+<img align="center" width="400" height="400" src="https://media.tenor.com/eel18OEN2gIAAAAd/hacker-computer.gif"/>
+
+</p>
+
 
 ## Tools and Technologies
 
